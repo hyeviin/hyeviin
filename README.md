@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://blog.naver.com/viin99" target="_blank"><img src="https://img.shields.io/badge/style-forthebage-red?style=for-the-badge"/></a>
+
 <!--
 **vveny/vveny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
