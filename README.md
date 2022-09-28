@@ -1,6 +1,6 @@
 ![reversal](https://capsule-render.vercel.app/api?type=Slice&text=Hi&fontAlign=47&fontSize=25&desc=👋&descAlign=50&descAlignY=50&theme=radical)
 
-📌 <a href="https://hyeviin.github.io/">
+📌 <a href="https://hyevin-kim.github.io/">
     <img src="https://img.shields.io/badge/GitBlog-000000?style=flat-square&logo=Bloglovin&logoColor=white"/>
    </a> | [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=viin99)](https://solved.ac/viin99)
